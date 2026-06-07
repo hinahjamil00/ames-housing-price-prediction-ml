@@ -82,7 +82,7 @@ The project includes:
 
 ## 🏆 Best Models
 - **Regression:** Gradient Boosting Regressor  
-- **Classification:** Random Forest Classifier (Tuned)  
+- **Classification:** Random Forest Classifier   
 
 ---
 
